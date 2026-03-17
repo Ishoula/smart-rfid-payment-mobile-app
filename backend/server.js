@@ -13,7 +13,7 @@ const MQTT_BROKER = "mqtt://broker.benax.rw:1883";
 const MONGO_URI = "mongodb://127.0.0.1:27017";
 const DB_NAME = "darywise_mobile_db";
 const JWT_SECRET = "darywise_mobile_secret";
-const TEAM_ID = "Darius_Divine_Louise";
+const TEAM_ID = "DaryWiseMobileTeam";
 
 let db;
 const app = express();
